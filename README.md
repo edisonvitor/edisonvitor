@@ -87,7 +87,7 @@ Aqui estão alguns certificados que conquistei durante minha jornada. Cada certi
   **Plataforma:** Alura  
   **Data de Conclusão:** Desembro 2023
   
-- **Curso:** [formação: Python com Orientação a Objetos](https://cursos.alura.com.br/degree/certificate/46d50cf1-ad26-4ff4-8721-80d13c3988d3?lang=pt_BR)
+- **Curso:** [Formação: Python com Orientação a Objetos](https://cursos.alura.com.br/degree/certificate/46d50cf1-ad26-4ff4-8721-80d13c3988d3?lang=pt_BR)  
   **Plataforma:** Alura  
   **Data de Conclusão:** Janeiro 2024
   
