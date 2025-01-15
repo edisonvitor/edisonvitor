@@ -127,7 +127,7 @@ Aqui estão alguns certificados que conquistei durante minha jornada. Cada certi
   **Data de Conclusão:** Janeiro 2025
 
 ### 5. DevOps e Infraestrutura
-- **Curso:** [Começando em DevOps](https://cursos.alura.com.br/degree/certificate/1994e4cc-eaf8-453f-bb2e-3f9699a22c7a?lang=pt_BR) 
+- **Curso:** [Começando em DevOps](https://cursos.alura.com.br/degree/certificate/1994e4cc-eaf8-453f-bb2e-3f9699a22c7a?lang=pt_BR)  
   **Plataforma:** Alura  
   **Data de Conclusão:** Janeiro 2024
 
